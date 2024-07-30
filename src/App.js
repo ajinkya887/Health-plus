@@ -26,8 +26,7 @@ function App() {
           <Route path="/doctors" element={<Doctors />} />
         </Routes>
         <Footer/>
-      </Router>
-      
+      </Router> 
     </div>
   );
 }
